@@ -3,7 +3,7 @@
 ## 1. Profile
 
 - 이름: 최수민
-- 이메일: smchoi@mugles.com
+- 이메일: lead@awesome.dev
 - 연락처: 010-4413-1261
 - 학력: 서강대학교 컴퓨터공학 2015.03 ~
 - 링크
@@ -28,13 +28,22 @@
   | Adobe Photoshop   | 하       |
   | Adobe Illustrator | 하       |
 
-## 3. Experiences
+## 3. Work History
 
-### 3.1. 생각하는머글들
+### 3.1. AWESOME.DEV
+
+사장
+
+2021/12 ~ 현재
+
+- 개발 외주사 AWESOME.DEV 설립. 운영/개발 총 책임자로 근무 중
+
+
+### 3.2. 생각하는머글들
 
 CTO
 
-2019/07 ~ 현재
+2019/07 ~ 2021/11
 
 - 모든 개발물을 설계/구현/유지/보수
 
@@ -66,14 +75,22 @@ CTO
 - Figma를 활용한 UI/UX 디자인 보조
 - 개발팀 교육 및 코드 리뷰
 
-### 3.2. 2020 오픈소스 컨트리뷰톤
+## 4. Activities
+
+### 4.1. 2021 오픈소스 컨트리뷰톤
+
+2021.08 ~ 2021.11
+
+- react-analytics-provider 프로젝트에 리드멘티로 참여. 장려상 수상
+
+### 4.2. 2020 오픈소스 컨트리뷰톤
 
 2020.08 ~ 2020.09
 
 - 글로벌 UI 라이브러리 프로젝트인 dooboo-ui에 기여 (React-Native)
 - 멘티로 참여. 장려상 수상
 
-### 3.3. 신촌연합 IT창업동아리 CEOS
+### 4.3. 신촌연합 IT창업동아리 CEOS
 
 2019.03 ~ 2020.06
 
@@ -82,9 +99,9 @@ CTO
   [https://play.google.com/store/apps/details?id=com.skycloset&hl=en_US&gl=US](https://play.google.com/store/apps/details?id=com.skycloset&hl=en_US&gl=US)
 
 - 동아리원 대상 개발 교육 및 멘토링 진행 (React.js)
-- 개발팀장 및 부회장으로 활동
+- 개발팀장, 부회장으로 활동
 
-### 3.4. 국방공개SW캠프
+### 4.4. 국방공개SW캠프
 
 2018.08 ~ 2018.10
 
